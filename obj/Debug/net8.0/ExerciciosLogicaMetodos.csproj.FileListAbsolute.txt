@@ -1,0 +1,14 @@
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\bin\Debug\net8.0\ExerciciosLogicaMetodos.exe
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\bin\Debug\net8.0\ExerciciosLogicaMetodos.deps.json
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\bin\Debug\net8.0\ExerciciosLogicaMetodos.runtimeconfig.json
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\bin\Debug\net8.0\ExerciciosLogicaMetodos.dll
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\bin\Debug\net8.0\ExerciciosLogicaMetodos.pdb
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\obj\Debug\net8.0\ExerciciosLogicaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\obj\Debug\net8.0\ExerciciosLogicaMetodos.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\obj\Debug\net8.0\ExerciciosLogicaMetodos.AssemblyInfo.cs
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\obj\Debug\net8.0\ExerciciosLogicaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\obj\Debug\net8.0\ExerciciosLogicaMetodos.dll
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\obj\Debug\net8.0\refint\ExerciciosLogicaMetodos.dll
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\obj\Debug\net8.0\ExerciciosLogicaMetodos.pdb
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\obj\Debug\net8.0\ExerciciosLogicaMetodos.genruntimeconfig.cache
+C:\Users\amand\source\repos\W3Schools\ExerciciosLogicaMetodos\obj\Debug\net8.0\ref\ExerciciosLogicaMetodos.dll
